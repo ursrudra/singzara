@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/singzara/static/css/main.812ae51a.chunk.css",
+    "main.js": "/singzara/static/js/main.95ff51fa.chunk.js",
+    "main.js.map": "/singzara/static/js/main.95ff51fa.chunk.js.map",
+    "runtime-main.js": "/singzara/static/js/runtime-main.f7a68bbd.js",
+    "runtime-main.js.map": "/singzara/static/js/runtime-main.f7a68bbd.js.map",
+    "static/js/2.b5416d25.chunk.js": "/singzara/static/js/2.b5416d25.chunk.js",
+    "static/js/2.b5416d25.chunk.js.map": "/singzara/static/js/2.b5416d25.chunk.js.map",
+    "index.html": "/singzara/index.html",
+    "precache-manifest.b4d02c16cbc354879613667cbd68c511.js": "/singzara/precache-manifest.b4d02c16cbc354879613667cbd68c511.js",
+    "service-worker.js": "/singzara/service-worker.js",
+    "static/css/main.812ae51a.chunk.css.map": "/singzara/static/css/main.812ae51a.chunk.css.map",
+    "static/js/2.b5416d25.chunk.js.LICENSE.txt": "/singzara/static/js/2.b5416d25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7a68bbd.js",
+    "static/js/2.b5416d25.chunk.js",
+    "static/css/main.812ae51a.chunk.css",
+    "static/js/main.95ff51fa.chunk.js"
+  ]
+}
