@@ -1,0 +1,18 @@
+.softButton{
+    margin: 0 1rem;
+    padding: .8rem 2rem;
+    background: #cac8c8;
+    box-shadow: 6px 6px 16px #a5a4a4, -6px -6px 16px #ffffff;
+    border-radius: 4rem 4rem 4rem 4rem;
+    &--square{
+        border-radius: 0px;
+        padding: .8rem 1.5rem;
+    }
+    &:hover{
+        box-shadow: inset 6px 6px 10px #a5a4a4, inset -6px -6px 10px #ffffff;
+    }
+    &--active{
+        box-shadow: inset 6px 6px 10px #a5a4a4, inset -6px -6px 10px #ffffff;
+    }
+
+}

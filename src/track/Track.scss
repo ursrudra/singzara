@@ -1,0 +1,30 @@
+.track{
+    margin: 2rem;
+
+ &__progress{
+    width: auto;
+    height: 1rem;
+    background-color: #ffffff;
+    border-radius: 1rem;
+    box-shadow: inset 6px 6px 10px #a5a4a4, inset -6px -6px 10px #ffffff;
+    position: relative;
+    &::after{
+        content: "";
+        width: 30%;
+        height: 100%;
+        background-color: #a5a4a4;
+        position: absolute;
+        left: 0;
+        border-radius: 1rem;
+    }
+}
+&__details{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+&__album{
+    font-size: 1.3rem;
+}
+}
